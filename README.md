@@ -1,3 +1,3 @@
 # simuladorDePartidasAPP
 
-App que irá simular partidas
+App nativo que irá simular partidas
