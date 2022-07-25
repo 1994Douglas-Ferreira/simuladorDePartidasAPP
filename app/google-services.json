@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573901969267",
+    "project_id": "simulator-dio-bootcamp-ada4a",
+    "storage_bucket": "simulator-dio-bootcamp-ada4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573901969267:android:5f9645523a07780048d706",
+        "android_client_info": {
+          "package_name": "com.DIO.simulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573901969267-bufbojkivn15rhnbhq6cosc4spv9lm5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9jdi3u5a66KaCg96PRbHN54bImoJiHd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573901969267-bufbojkivn15rhnbhq6cosc4spv9lm5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

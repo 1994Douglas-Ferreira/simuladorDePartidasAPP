@@ -67,6 +67,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void setupFloatingActionButton() {
         binding.fabSimulator.setOnClickListener(view -> {
+
             view.animate().rotationBy(360).setDuration(500).setListener(new AnimatorListenerAdapter() {
                 @Override
                 public void onAnimationEnd(Animator animation) {
@@ -79,6 +80,7 @@ public class MainActivity extends AppCompatActivity {
                     }
                 }
             });
+
         });
     }
 
