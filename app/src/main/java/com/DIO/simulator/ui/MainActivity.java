@@ -9,9 +9,7 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
-import com.DIO.simulator.R;
 import com.DIO.simulator.data.MatchesAPI;
-import com.DIO.simulator.databinding.ActivityMainBinding;
 import com.DIO.simulator.domain.Match;
 import com.DIO.simulator.ui.adapter.MatchesAdapter;
 import com.google.android.material.snackbar.Snackbar;
@@ -20,6 +18,8 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
+import me.dio.simulator.R;
+import me.dio.simulator.databinding.ActivityMainBinding;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
